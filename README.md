@@ -2,7 +2,7 @@
 Database Assignment
 
 ### git
-https://github.com/wujiabo/FSD-Assignments-07.git
+https://github.com/dongf9527/fsd07.git
 
 ### Getting started
 1. Assignment1.sql:             Assignment1 create table sql file.
